@@ -1,0 +1,13 @@
+{
+  "name": "esbulid-experiments",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@withfig/autocomplete": "^2.599.2",
+    "esbuild": "^0.17.18"
+  }
+}
